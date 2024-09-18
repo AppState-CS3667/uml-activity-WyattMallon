@@ -1,0 +1,8 @@
+1. The primary actors are the shopper, which include both minors and adults
+2. The secondary actors are the employee
+3. The use cases are described with verbs
+4. The actors are described with nouns
+5. The primary actors are primary because they are the ones who initiate interaction with the system
+6. The secondary actors are secondary because they react to interaction with the system
+7. Verify ID extends Scan Items because it is something that may happen, but doesn't happen every time items are scanned
+8. Scan Items includes Check Cart for Items because it is something that happens every time items are scanned
